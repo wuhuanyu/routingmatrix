@@ -14,7 +14,7 @@ public class Main {
 
         if(density<whatToTalk){
             System.out.println("Wrong input !");
-            System.exit(14);
+            System.exit(1);
         }
 
 
